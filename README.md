@@ -1,6 +1,6 @@
 # Chinese-Sentiment-Analysis-Fund-Direction
-  地址：https://huggingface.co/sanshizhang/Chinese-Sentiment-Analysis-Fund-Direction
-  文件太大了，可以去huggingface上下载
+  文件太大了，可以去huggingface上下载，地址：https://huggingface.co/sanshizhang/Chinese-Sentiment-Analysis-Fund-Direction
+  
 
     验证集准确度: 0.9382193411826961
     验证集分类报告: 
